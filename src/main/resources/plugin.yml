@@ -1,0 +1,4 @@
+name: Dominigames
+version: '${version}'
+main: me.gusbuncedev.dominigames.Dominigames
+api-version: '1.20'
