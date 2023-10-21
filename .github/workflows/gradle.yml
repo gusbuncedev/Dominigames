@@ -35,6 +35,6 @@ jobs:
           arguments: build
       - uses: actions/upload-artifact@v3
         with:
-          name: Package
-          path: build/libs
+          name: Dominigames
+          path: build/libs/*
 
